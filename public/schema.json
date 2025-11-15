@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Amir Hamja Chowdhury",
+  "url": "https://amir-seo.com",
+  "image": "https://amir-seo.com/professional-headshot.jpg",
+  "jobTitle": "SEO Consultant",
+  "description": "SEO consultant with 5+ years of experience. I help businesses rank on Google's first page.",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Amir Hamja Chowdhury Consulting"
+  },
+  "sameAs": [
+    "https://linkedin.com/in/amir-seo",
+    "https://github.com/amir-seo"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Customer Service",
+    "email": "hello@amir-seo.com"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "10"
+  }
+}
